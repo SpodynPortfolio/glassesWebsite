@@ -117,10 +117,7 @@
     .section {
       padding: 8rem 0 2rem;
     }
-    .home__container {
-      height: 100vh;
-      grid-template-rows: 1.8fr .5fr;
-    }
+    
     .home__data {
       align-self: flex-end;
     }
